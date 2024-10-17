@@ -4,7 +4,6 @@
   "description": "A blog build by vitepress.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview"
@@ -13,5 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.4.1"
-  }
+  },
+  "packageManager": "pnpm@9.11.0"
 }
