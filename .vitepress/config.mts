@@ -12,6 +12,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "大前端", link: "/front-end/index" },
+      { text: "工程化", link: "/engineering/index" },
       { text: "杂谈", link: "/lesson/index" },
     ],
 

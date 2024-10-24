@@ -11,6 +11,9 @@ hero:
       text: 大前端
       link: /front-end
     - theme: alt
+      text: 工程化
+      link: /engineering
+    - theme: alt
       text: 杂谈
       link: /lesson
 
